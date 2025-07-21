@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    testuser@gmail.com:
+      email: testuser@gmail.com
+      name: Test User
+      password: "$2b$12$KIX1e6gTzfuHaZFsgVKXX.3v.H/O8U4xk8S7VgE7Q44upClv0/LOK"  # password: test123
+
+cookie:
+  name: shortgen_cookie
+  key: abcdefghijklmnop
+  expiry_days: 7
