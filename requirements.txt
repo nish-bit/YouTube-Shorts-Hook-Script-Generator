@@ -1,2 +1,5 @@
 streamlit-authenticator
 PyYAML
+streamlit
+groq
+
